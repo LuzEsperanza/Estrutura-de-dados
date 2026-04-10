@@ -39,16 +39,16 @@ Este repositório contém implementações práticas das principais **estruturas
 
 ---
 
-#### 🔹 Fila (Queue)
+### 🔹 Fila (Queue)
 - `Queue`
-PriorityQueue
+- `PriorityQueue`
 
 📌 FIFO (First In, First Out)
 📌 Fila com prioridade organiza de acordo com maior prioridade
 
 ---
 
-#### 🔹 Mapas (Map)
+### 🔹 Mapas (Map)
 - `HashMap`
 - `Hashtable`
 - `TreeMap`
