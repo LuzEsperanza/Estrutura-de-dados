@@ -44,6 +44,7 @@ Este repositório contém implementações práticas das principais **estruturas
 - `PriorityQueue`
 
 📌 FIFO (First In, First Out)
+
 📌 Fila com prioridade organiza de acordo com maior prioridade
 
 ---
