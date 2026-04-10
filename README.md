@@ -36,6 +36,7 @@ Este repositório contém implementações práticas das principais **estruturas
 
 📌 LIFO (Last In, First Out)  
 📌 Último que entra, primeiro que sai
+
 ---
 
 #### 🔹 Fila (Queue)
@@ -44,13 +45,18 @@ PriorityQueue
 
 📌 FIFO (First In, First Out)
 📌 Fila com prioridade organiza de acordo com maior prioridade
+
 ---
 
 #### 🔹 Mapas (Map)
 - `HashMap`
 - `Hashtable`
 - `TreeMap`
+
+  
 📌 Estrutura chave → valor
+
+
 | Estrutura | Característica          |
 | --------- | ----------------------- |
 | HashMap   | 🔥 Rápido, não ordenado |
